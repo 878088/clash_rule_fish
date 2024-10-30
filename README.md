@@ -13,5 +13,5 @@
 
 ### 订阅转换配置链接
 ```
-https://raw.githubusercontent.com/refined-fish/clash_rule_fish/main/Fish_Rule.ini
+https://raw.githubusercontent.com/878088/clash_rule_fish/main/Fish_Rule.ini
 ```
